@@ -1,0 +1,14 @@
+#-----------------------------------------------------------
+# Vivado v2023.2 (64-bit)
+# SW Build 4029153 on Fri Oct 13 20:14:34 MDT 2023
+# IP Build 4028589 on Sat Oct 14 00:45:43 MDT 2023
+# SharedData Build 4025554 on Tue Oct 10 17:18:54 MDT 2023
+# Start of session at: Tue May 21 10:09:38 2024
+# Process ID: 11952
+# Current directory: D:/Programming/MODELSIM/four-choice-one-selector/four-choice-one-selector.runs/synth_1
+# Command line: vivado.exe -log selector41.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source selector41.tcl
+# Log file: D:/Programming/MODELSIM/four-choice-one-selector/four-choice-one-selector.runs/synth_1/selector41.vds
+# Journal file: D:/Programming/MODELSIM/four-choice-one-selector/four-choice-one-selector.runs/synth_1\vivado.jou
+# Running On: TANVIR, OS: Windows, CPU Frequency: 2918 MHz, CPU Physical cores: 10, Host memory: 16890 MB
+#-----------------------------------------------------------
+source selector41.tcl -notrace
